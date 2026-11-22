@@ -1,1 +1,4 @@
 
+name = "tongzi-linli"
+main = "public/_worker.js"
+compatibility_date = "2026-11-01"
